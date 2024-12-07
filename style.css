@@ -1,0 +1,346 @@
+.container{
+    width: 62.5rem;
+    height: 31.25rem;
+    
+    border:1px solid black ;
+    background-color: black;
+    background-image: url(kalo.jpg);
+    background-size: cover;
+    
+}
+.navbar{
+    width: 62.5rem;
+    height: 3.125rem;
+    display: flex;
+    
+    position:relative;
+    
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.488);
+   
+}
+.sano{
+    background-color:orangered;
+    height: 2rem;
+    width: 4.6875rem;
+    font-weight: 20%;
+    color: white;
+    border-radius: 0.625rem; 
+    
+    
+}
+
+img{
+    padding-left: 2.5rem;
+}
+.sano{
+    margin-left: 37.5rem;
+/* }next */
+
+}
+.center{
+    height:19.375rem;
+    width:56.875rem;
+    
+
+    padding-bottom: 2.5rem;
+    
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    
+    
+justify-content: center;
+align-items: center;
+    
+
+    
+}
+.movies{
+    height: 2.0625rem;
+    width: 56.875rem;
+   
+    text-align: center;
+    font: italic small-caps bold 16px/2;
+    color: white;
+ 
+
+}
+
+.watch{
+    height: 1.875rem;
+    width: 56.875rem;
+    
+    text-align: center;
+    color: white; 
+    align-self:center
+    
+ 
+}
+
+.ready{
+    height: 1.875rem;
+    width: 56.875rem;
+    
+    text-align: center;
+    color: white;
+    font-weight: 12.5rem;
+ 
+
+}
+.signin{
+    Height: 3.625rem;
+    width:56.875rem; 
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+    position: relative;
+    
+}
+input{
+    width:18.75rem;
+    height:2.5rem; 
+    margin-left: 12.5rem;
+    height:2.5rem;
+    border-radius: 0.25rem;
+    
+}
+.anurag{
+    width:12.6875rem;
+    height:2.5rem;
+    border-radius: 0.25rem;
+    border-radius: 0.25rem;
+    color:white;
+    background-color: orangered;
+    
+    margin-top: 0.1875rem;
+    margin-right: 6.875rem;
+
+    
+    
+    
+}
+.button{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    
+    
+    
+}
+
+.sano:hover{
+    background-color: rgba(255, 0, 0, 0.622);
+    transition-timing-function: ease-in;
+    transition-delay: 0.5ms;
+}
+.anurag:hover{
+    background-color: rgba(255, 0, 0, 0.622);
+    transition-timing-function: ease-in;
+    transition-delay: 0.5ms;
+}
+/* second part */
+
+
+
+
+.main2{
+    height: 23.875rem;
+    width: 62.5rem;
+    border: 8px solid rgba(12, 1, 1, 0.236);
+    display: flex;
+    background-color:#100E09  ;
+    border:8px solid rgba(128, 128, 128, 0.13)
+}
+.enjoybox{
+    width:28.125rem;
+    height:12.5rem;
+    
+    display: flex;
+    flex-direction: column;
+}
+.enjoytv{
+    height: 4rem;
+    width: 27.75rem;
+    
+    
+    color: white;
+    text-align: center;
+    font-family: bolder;
+    position:relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3.75rem;
+    font-size: 900;
+    font-display: 100%;
+    font-weight: 900;
+    font-family:"font-a-bold";
+    
+    
+
+}
+.smart{
+    height: 6rem;
+    width: 27.75rem;
+    
+    color: white;
+    text-align: center;
+    margin-left: 3.125rem;
+    overflow-wrap: break-word;
+}
+.tv{
+    height: 20.8125rem;
+    width: 27.75rem;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+video{
+    height:80%;
+    width:80%;
+} 
+
+/*  arko abbb */
+.stmain{
+    height: 25rem;
+    width: 62.5rem;
+    border:8px solid rgba(128, 128, 128, 0.13);
+
+    display: flex; 
+    
+    position: relative;
+    background-color:#100E09  ;
+}
+.stmobile{
+    width: 27.75rem;
+    height: 20.1875rem;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.download{
+    width: 27.75rem;
+    height: 6.25rem;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-size-adjust: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.save{
+    width: 27.75rem;
+    height: 4rem;
+    
+    justify-content: center;
+    position: relative;
+    margin-left: 5rem;
+    color: white;
+    word-wrap: break-word;
+    
+}
+.thulost{
+    width: 28.125rem;
+    height: 18.625rem;
+    
+    
+
+    
+}
+.got{
+    height:18.75rem;
+    width:27.75rem;
+    
+    background-image: url(oi.jpeg);
+    background-size: cover;
+}
+.few{
+    position: relative;
+   
+    text-align:right;
+    color: white;
+    position: relative;
+    margin-left: 1.25rem;
+    
+}
+/*  next please */
+
+.kidsmain{
+    height: 17.625rem;
+    width: 62.5rem;
+    border:8px solid rgba(128, 128, 128, 0.063);
+    display: flex;
+    flex-direction: row-reverse;
+    background-color:#100E09  ;
+    
+}
+.kids{
+    height: 14.5625rem;
+    width: 27.75rem;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mainspend{
+    height: 16.5625rem;
+    width: 28.25rem;
+    
+}
+.create{
+    height: 8rem;
+    width: 27.75rem;
+    display: contents;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.spend{
+    height: 6rem;
+    width: 28.125rem;
+   
+    color: white;
+    text-align: center;
+   text-size-adjust: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.sanokids{
+    height: 12.5rem;
+    width: 18.75rem;
+    
+    background-image: url(phone.jpeg);
+background-size: cover;
+    
+}
+/* footer part */
+.tala{
+    width: 62.5rem;
+    height: 11.25rem;
+    border: 8px solid rgba(128, 128, 128, 0);
+    display: flex;
+    
+    align-items: center;
+    background-color:#100E09  ;
+    position: relative;
+
+}
+.nl{
+    width: 11.25rem;
+    height: 11.25rem;
+    position: relative;
+    margin-right: 12.5rem;
+   
+   
+    
+
+}
+.love{
+    color: white;
+}
+
